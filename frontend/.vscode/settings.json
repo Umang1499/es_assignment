@@ -1,0 +1,11 @@
+{
+    "editor.detectIndentation": false,
+    "editor.tabSize": 2,
+    "editor.formatOnSave": true,
+    "editor.codeActionsOnSave": {
+      "source.fixAll.eslint": "explicit"
+    },
+    "eslint.validate": ["javascript"],
+    "prettier.eslintIntegration": true,
+    "prettier.jsxBracketSameLine": true
+  }
