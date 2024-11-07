@@ -34,7 +34,7 @@
 
 ##### Toogle Status
 
-![Image 9](toogle_status_tooltip.png)
+![Image 9](toogle_status_tooltip.PNG)
 
 ##### Logout Option
 
@@ -47,8 +47,8 @@
 
 ##### Todolist mongodb document
 
-![Image 12](todolists_doc.png)
+![Image 12](todolists_doc.PNG)
 
 ##### Todolistitem mongodb document
 
-![Image 13](todolist_items_doc.png)
+![Image 13](todolist_items_doc.PNG)
